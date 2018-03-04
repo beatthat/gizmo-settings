@@ -1,9 +1,9 @@
 {
   "name": "gizmo-settings",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "GizmoSettings is a util component thats it easier to stencil gizmos for complex UI setups",
   "config": {
-      "scope": "ape"
+    "scope": "ape"
   },
   "main": "index.js",
   "scripts": {
