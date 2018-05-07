@@ -1,7 +1,7 @@
 {
   "name": "gizmo-settings",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fill in description",
   "main": "index.js",
   "repository": {
