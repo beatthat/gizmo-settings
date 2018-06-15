@@ -1,7 +1,7 @@
 {
   "name": "gizmo-settings",
   "scope": "beatthat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "GizmoSettings component offers some configurable control over gizmos",
   "main": "index.js",
   "repository": {
