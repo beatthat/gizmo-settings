@@ -1,14 +1,14 @@
-using UnityEngine;
-using BeatThat;
 using BeatThat.ColorExtensions;
+using BeatThat.Rects;
+using UnityEngine;
 
-namespace BeatThat
+namespace BeatThat.GizmoSetting
 {
-	
-	/// <summary>
-	/// Component makes it easy to enable/disable gizmos and associated colors on a per-object basis
-	/// </summary>
-	public class GizmoSettings : MonoBehaviour
+
+    /// <summary>
+    /// Component makes it easy to enable/disable gizmos and associated colors on a per-object basis
+    /// </summary>
+    public class GizmoSettings : MonoBehaviour
 	{
 
 		public enum DrawGizmosDirective { Disable = 0, WhenSelected = 1, Always = 2 }
@@ -51,3 +51,4 @@ namespace BeatThat
 		#endif
 	}
 }
+

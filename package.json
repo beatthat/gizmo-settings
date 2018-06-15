@@ -2,11 +2,11 @@
   "name": "gizmo-settings",
   "scope": "beatthat",
   "version": "1.0.2",
-  "description": "fill in description",
+  "description": "GizmoSettings component offers some configurable control over gizmos",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-scope/your-pkg-name.git"
+    "url": "git+https://github.com/your-scope/gizmo-settings.git"
   },
   "files": [
     "index.js",
@@ -18,9 +18,9 @@
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-scope/your-pkg-name/issues"
+    "url": "https://github.com/your-scope/gizmo-settings/issues"
   },
-  "homepage": "https://github.com/your-scope/your-pkg-name",
+  "homepage": "https://github.com/beaththat/gizmo-settings",
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
     "preinstall:test": "rm -f *.tgz",
